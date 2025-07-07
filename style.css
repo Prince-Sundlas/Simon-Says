@@ -1,0 +1,30 @@
+h1 , h3{
+    text-align: center;
+}
+.box{
+    height: 165px;
+    width: 165px;
+    border: 4px solid black;
+    border-radius: 8px;
+    margin: 5px;
+}
+#boes{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.purple{
+    background-color: purple;
+}
+.red{
+    background-color: red;
+}
+.green{
+    background-color: green;
+}
+.blue{
+    background-color: blue;
+}
+.flash{
+    background-color: whitesmoke;
+}
