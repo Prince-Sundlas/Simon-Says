@@ -1,6 +1,6 @@
 # Simon-Says Game
 A traditional Simon Says style of memory game, all built in HTML, CSS, and JS, but runs totally in your web browser. Your memory will be challenged by an continually increasing train of colours that must be repeated back in sequence. It's a lightweight, addictive exercise for your reaction time and your focus.
-# Teh Stack used
+# Tech Stack used
 It's built through basic front-end web technologies such that learning it is simple yet effective in exhibiting core programming skills. Main technologies utilized are:
 -HTML5 for building the page structure and elements.
 -CSS3 for styling and making the UI look awesome.
